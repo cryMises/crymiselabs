@@ -1,2 +1,5 @@
-# crymiselabs
-a place where experiments, projects, and tools are built.
+# cryMises Labs
+
+My personal portfolio website showcasing projects, skills, tools, and technical interests.
+
+Visit the website for the full experience.
